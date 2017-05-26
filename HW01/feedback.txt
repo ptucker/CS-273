@@ -1,0 +1,4 @@
+EX01_03 (17/25): Classes and functions don't go inside of your main() function. They should be separate.
+EX01_04 (15/25): Give more implementation throughout. Animal and Mouth should have some functionality -- make something up.
+
+82/100
